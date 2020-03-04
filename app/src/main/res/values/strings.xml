@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestingForm</string>
+    <string name="settings_title">Settings</string>
+    <string name="name_label">Your name:</string>
+    <string name="name_hint">e.g. Jorge, Luis, Camilo, etc</string>
+    <string name="dob_label">Your date of birth:</string>
+    <string name="email_label">Your Email address:</string>
+    <string name="email_hint">e.g. jorge.diaz@pragma.com.co, soyjorgediaz5@gmail.com, etc</string>
+    <string name="save">Save</string>
+    <string name="revert">Revert</string>
+    <string name="clear">Clear</string>
+</resources>
